@@ -2,6 +2,11 @@
 📌 Project Overview
 This project analyzes customer demographics and purchasing patterns for a bike store.
 Using Excel, Power BI, and SQL, we explored key factors influencing bike purchases.
+📂 Project Files
+📊 Excel  – Data modifying & Pivot Analysis
+📊 Dashboard – Interactive Dashboard by PowerBI
+📜 Report – Summary & Recommendations pdf
+💾 SQL – Data cleaning by MYSQL
 
 📊 Data & Tools Used
 Dataset: Bike Store Customer Data
@@ -16,8 +21,3 @@ Occupations: Professionals & Skilled Manual workers are the top buyers.
 Focus marketing on medium-income professionals.
 Promote short-distance commuting benefits to increase sales.
 Offer targeted discounts for young and old age groups.
-📂 Project Files
-📊 Excel File – Data modifying & Pivot Analysis
-📊 Power BI File – Interactive Dashboard
-📜 PDF Report – Summary & Recommendations
-💾 SQL – Data cleaning by MYSQL
