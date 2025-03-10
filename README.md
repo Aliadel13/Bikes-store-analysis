@@ -1,4 +1,4 @@
-🚴‍♂️ **Bike Store Sales Analysis**
+# 🚴‍♂️ Bike Store Sales Analysis
 
 📌 **Project Overview**  
 This project analyzes customer demographics and purchasing patterns for a bike store using **SQL, Excel, and Power BI**.  
